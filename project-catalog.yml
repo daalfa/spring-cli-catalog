@@ -8,12 +8,4 @@ project-repositories:
   - "boot-3.1.x"
   - "rest"
   - "web"
-- name: "jpa"
-  description: "Learn how to work with JPA data persistence using Spring Data JPA."
-  url: "https://github.com/rd-1-2022/rpt-spring-data-jpa"
-  tags:
-  - "java-17"
-  - "boot-3.1.x"  
-  - "jpa"
-  - "h2"
   

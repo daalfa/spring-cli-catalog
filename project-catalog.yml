@@ -1,8 +1,8 @@
 ---
 project-repositories:
-- name: "web"
-  description: "Hello, World RESTful web service."
-  url: "https://github.com/rd-1-2022/rest-service"
+- name: "web-jpa-h2-maven-yml"
+  description: "Spring boot Booking service with Spring Data JPA"
+  url: "https://github.com/daalfa/spring-boot-demo"
   tags:
   - "java-17"
   - "boot-3.1.x"

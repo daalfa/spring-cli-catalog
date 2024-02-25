@@ -1,0 +1,11 @@
+project-repositories:
+- name: "d1"
+  description: "Spring boot Booking service with Spring Data JPA"
+  url: "https://github.com/daalfa/spring-boot-demo"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "rest"
+  - "web"
+  - "jpa"
+  - "h2
